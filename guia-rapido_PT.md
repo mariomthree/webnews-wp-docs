@@ -11,4 +11,4 @@ Instale todos os plugins recomendados, principalmente M3 Toolbox. Ao instalar o 
 ## 3.	Importar o conteúdo de demostração
 A última etapa é opcional, mas esta é a maneira mais fácil de iniciar a estilização do seu site utilizando a WebNews, pois ela reproduzira o site de demostração em seu próprio site. Os conteúdos de demonstração estão disponíveis no GitHub do autor do tema, baixe e importe usando All ine one wp migration.
 
-Hiperligação do GitHub: https://github.com/mariomthree/WebNews-WP-Docs 
+Hiperligação do GitHub: https://github.com/mariomthree/webnews-wp-docs

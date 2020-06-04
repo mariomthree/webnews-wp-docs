@@ -11,4 +11,4 @@ Install all recommended plugins, mainly M3 Toolbox. When installing the theme fo
 ## 3. Import the demo content
 The last step is optional, but this is the easiest way to start styling your site using WebNews, as it will reproduce the demo site on its own site. Demo content is available on the theme author's GitHub, download and import using All ine one wp migration.
 
-GitHub link: https://github.com/mariomthree/WebNews-WP-Docs
+GitHub link: https://github.com/mariomthree/webnews-wp-docs
